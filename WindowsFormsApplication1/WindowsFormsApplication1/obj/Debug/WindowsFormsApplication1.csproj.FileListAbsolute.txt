@@ -1,0 +1,10 @@
+Z:\Общая для записи студентам\205 гр\Астанов Артём, Безрукова Мария\FORMS\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+X:\Общая для записи студентам\205 гр\Астанов Артём, Безрукова Мария\FORMS\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+X:\Общая для записи студентам\205 гр\Астанов Артём, Безрукова Мария\FORMS\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+X:\Общая для записи студентам\205 гр\Астанов Артём, Безрукова Мария\FORMS\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+X:\Общая для записи студентам\205 гр\Астанов Артём, Безрукова Мария\FORMS\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojAssemblyReference.cache
+X:\Общая для записи студентам\205 гр\Астанов Артём, Безрукова Мария\FORMS\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+X:\Общая для записи студентам\205 гр\Астанов Артём, Безрукова Мария\FORMS\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+X:\Общая для записи студентам\205 гр\Астанов Артём, Безрукова Мария\FORMS\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+X:\Общая для записи студентам\205 гр\Астанов Артём, Безрукова Мария\FORMS\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+X:\Общая для записи студентам\205 гр\Астанов Артём, Безрукова Мария\FORMS\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
