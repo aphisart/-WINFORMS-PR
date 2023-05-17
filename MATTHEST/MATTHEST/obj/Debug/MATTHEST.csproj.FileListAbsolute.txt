@@ -1,0 +1,24 @@
+G:\Общая для записи студентам\205 гр\Астанов Артем,Забелина Виктория, Мезрукова Бария\MATTHEST\MATTHEST\bin\Debug\MATTHEST.exe.config
+G:\Общая для записи студентам\205 гр\Астанов Артем,Забелина Виктория, Мезрукова Бария\MATTHEST\MATTHEST\bin\Debug\MATTHEST.exe
+G:\Общая для записи студентам\205 гр\Астанов Артем,Забелина Виктория, Мезрукова Бария\MATTHEST\MATTHEST\bin\Debug\MATTHEST.pdb
+G:\Общая для записи студентам\205 гр\Астанов Артем,Забелина Виктория, Мезрукова Бария\MATTHEST\MATTHEST\obj\Debug\MATTHEST.csprojAssemblyReference.cache
+G:\Общая для записи студентам\205 гр\Астанов Артем,Забелина Виктория, Мезрукова Бария\MATTHEST\MATTHEST\obj\Debug\MATTHEST.Form1.resources
+G:\Общая для записи студентам\205 гр\Астанов Артем,Забелина Виктория, Мезрукова Бария\MATTHEST\MATTHEST\obj\Debug\MATTHEST.Properties.Resources.resources
+G:\Общая для записи студентам\205 гр\Астанов Артем,Забелина Виктория, Мезрукова Бария\MATTHEST\MATTHEST\obj\Debug\MATTHEST.csproj.GenerateResource.cache
+G:\Общая для записи студентам\205 гр\Астанов Артем,Забелина Виктория, Мезрукова Бария\MATTHEST\MATTHEST\obj\Debug\MATTHEST.csproj.CoreCompileInputs.cache
+G:\Общая для записи студентам\205 гр\Астанов Артем,Забелина Виктория, Мезрукова Бария\MATTHEST\MATTHEST\obj\Debug\MATTHEST.exe
+G:\Общая для записи студентам\205 гр\Астанов Артем,Забелина Виктория, Мезрукова Бария\MATTHEST\MATTHEST\obj\Debug\MATTHEST.pdb
+Z:\Общая для записи студентам\205 гр\Астанов Артём, Безрукова Мария\FORMS\MATTHEST\MATTHEST\bin\Debug\MATTHEST.exe.config
+Z:\Общая для записи студентам\205 гр\Астанов Артём, Безрукова Мария\FORMS\MATTHEST\MATTHEST\obj\Debug\MATTHEST.exe
+Z:\Общая для записи студентам\205 гр\Астанов Артём, Безрукова Мария\FORMS\MATTHEST\MATTHEST\obj\Debug\MATTHEST.pdb
+Z:\Общая для записи студентам\205 гр\Астанов Артём, Безрукова Мария\FORMS\MATTHEST\MATTHEST\obj\Debug\MATTHEST.csprojResolveAssemblyReference.cache
+Z:\Общая для записи студентам\205 гр\Астанов Артём, Безрукова Мария\FORMS\MATTHEST\MATTHEST\obj\Debug\MATTHEST.Form1.resources
+Z:\Общая для записи студентам\205 гр\Астанов Артём, Безрукова Мария\FORMS\MATTHEST\MATTHEST\obj\Debug\MATTHEST.Properties.Resources.resources
+Z:\Общая для записи студентам\205 гр\Астанов Артём, Безрукова Мария\FORMS\MATTHEST\MATTHEST\obj\Debug\MATTHEST.csproj.GenerateResource.Cache
+Y:\Общая для записи студентам\205 гр\Астанов Артём, Безрукова Мария\FORMS\MATTHEST\MATTHEST\bin\Debug\MATTHEST.exe.config
+Y:\Общая для записи студентам\205 гр\Астанов Артём, Безрукова Мария\FORMS\MATTHEST\MATTHEST\obj\Debug\MATTHEST.exe
+Y:\Общая для записи студентам\205 гр\Астанов Артём, Безрукова Мария\FORMS\MATTHEST\MATTHEST\obj\Debug\MATTHEST.pdb
+Y:\Общая для записи студентам\205 гр\Астанов Артём, Безрукова Мария\FORMS\MATTHEST\MATTHEST\obj\Debug\MATTHEST.csprojResolveAssemblyReference.cache
+Y:\Общая для записи студентам\205 гр\Астанов Артём, Безрукова Мария\FORMS\MATTHEST\MATTHEST\obj\Debug\MATTHEST.Form1.resources
+Y:\Общая для записи студентам\205 гр\Астанов Артём, Безрукова Мария\FORMS\MATTHEST\MATTHEST\obj\Debug\MATTHEST.Properties.Resources.resources
+Y:\Общая для записи студентам\205 гр\Астанов Артём, Безрукова Мария\FORMS\MATTHEST\MATTHEST\obj\Debug\MATTHEST.csproj.GenerateResource.Cache
