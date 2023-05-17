@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MATRIXCALCULATOR", "MATRIXCALCULATOR\MATRIXCALCULATOR.csproj", "{A95EAD0C-83B0-4055-983F-954F73BB3607}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A95EAD0C-83B0-4055-983F-954F73BB3607}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A95EAD0C-83B0-4055-983F-954F73BB3607}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A95EAD0C-83B0-4055-983F-954F73BB3607}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A95EAD0C-83B0-4055-983F-954F73BB3607}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
