@@ -1,0 +1,9 @@
+Z:\Общая для записи студентам\205 гр\Астанов Артём, Безрукова Мария\gwint prototype\gwint prototype\bin\Debug\gwint prototype.exe.config
+Z:\Общая для записи студентам\205 гр\Астанов Артём, Безрукова Мария\gwint prototype\gwint prototype\bin\Debug\gwint prototype.exe
+Z:\Общая для записи студентам\205 гр\Астанов Артём, Безрукова Мария\gwint prototype\gwint prototype\bin\Debug\gwint prototype.pdb
+Z:\Общая для записи студентам\205 гр\Астанов Артём, Безрукова Мария\gwint prototype\gwint prototype\obj\Debug\gwint prototype.csprojResolveAssemblyReference.cache
+Z:\Общая для записи студентам\205 гр\Астанов Артём, Безрукова Мария\gwint prototype\gwint prototype\obj\Debug\gwint_prototype.Form1.resources
+Z:\Общая для записи студентам\205 гр\Астанов Артём, Безрукова Мария\gwint prototype\gwint prototype\obj\Debug\gwint_prototype.Properties.Resources.resources
+Z:\Общая для записи студентам\205 гр\Астанов Артём, Безрукова Мария\gwint prototype\gwint prototype\obj\Debug\gwint prototype.csproj.GenerateResource.Cache
+Z:\Общая для записи студентам\205 гр\Астанов Артём, Безрукова Мария\gwint prototype\gwint prototype\obj\Debug\gwint prototype.exe
+Z:\Общая для записи студентам\205 гр\Астанов Артём, Безрукова Мария\gwint prototype\gwint prototype\obj\Debug\gwint prototype.pdb
