@@ -29,63 +29,74 @@
         private void InitializeComponent()
         {
             this.hand = new System.Windows.Forms.PictureBox();
-            this.pictureBox2 = new System.Windows.Forms.PictureBox();
-            this.pictureBox3 = new System.Windows.Forms.PictureBox();
-            this.pictureBox4 = new System.Windows.Forms.PictureBox();
+            this.playerSiege = new System.Windows.Forms.PictureBox();
+            this.playerRange = new System.Windows.Forms.PictureBox();
+            this.playerClose = new System.Windows.Forms.PictureBox();
             ((System.ComponentModel.ISupportInitialize)(this.hand)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.playerSiege)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.playerRange)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.playerClose)).BeginInit();
             this.SuspendLayout();
             // 
             // hand
             // 
+            this.hand.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.hand.Location = new System.Drawing.Point(12, 665);
             this.hand.Name = "hand";
             this.hand.Size = new System.Drawing.Size(960, 84);
             this.hand.TabIndex = 0;
             this.hand.TabStop = false;
             this.hand.Paint += new System.Windows.Forms.PaintEventHandler(this.hand_Paint);
+            this.hand.MouseDown += new System.Windows.Forms.MouseEventHandler(this.hand_MouseDown);
             // 
-            // pictureBox2
+            // playerSiege
             // 
-            this.pictureBox2.Location = new System.Drawing.Point(318, 561);
-            this.pictureBox2.Name = "pictureBox2";
-            this.pictureBox2.Size = new System.Drawing.Size(654, 84);
-            this.pictureBox2.TabIndex = 1;
-            this.pictureBox2.TabStop = false;
+            this.playerSiege.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.playerSiege.Location = new System.Drawing.Point(318, 561);
+            this.playerSiege.Name = "playerSiege";
+            this.playerSiege.Size = new System.Drawing.Size(654, 84);
+            this.playerSiege.TabIndex = 1;
+            this.playerSiege.TabStop = false;
+            this.playerSiege.Paint += new System.Windows.Forms.PaintEventHandler(this.playerSiege_Paint);
+            this.playerSiege.MouseDown += new System.Windows.Forms.MouseEventHandler(this.playerSiege_MouseDown);
             // 
-            // pictureBox3
+            // playerRange
             // 
-            this.pictureBox3.Location = new System.Drawing.Point(318, 471);
-            this.pictureBox3.Name = "pictureBox3";
-            this.pictureBox3.Size = new System.Drawing.Size(654, 84);
-            this.pictureBox3.TabIndex = 2;
-            this.pictureBox3.TabStop = false;
+            this.playerRange.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.playerRange.Location = new System.Drawing.Point(318, 471);
+            this.playerRange.Name = "playerRange";
+            this.playerRange.Size = new System.Drawing.Size(654, 84);
+            this.playerRange.TabIndex = 2;
+            this.playerRange.TabStop = false;
+            this.playerRange.Paint += new System.Windows.Forms.PaintEventHandler(this.playerRange_Paint);
+            this.playerRange.MouseDown += new System.Windows.Forms.MouseEventHandler(this.playerRange_MouseDown);
             // 
-            // pictureBox4
+            // playerClose
             // 
-            this.pictureBox4.Location = new System.Drawing.Point(318, 381);
-            this.pictureBox4.Name = "pictureBox4";
-            this.pictureBox4.Size = new System.Drawing.Size(654, 84);
-            this.pictureBox4.TabIndex = 3;
-            this.pictureBox4.TabStop = false;
+            this.playerClose.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.playerClose.Location = new System.Drawing.Point(318, 381);
+            this.playerClose.Name = "playerClose";
+            this.playerClose.Size = new System.Drawing.Size(654, 84);
+            this.playerClose.TabIndex = 3;
+            this.playerClose.TabStop = false;
+            this.playerClose.Paint += new System.Windows.Forms.PaintEventHandler(this.pictureBox4_Paint);
+            this.playerClose.MouseDown += new System.Windows.Forms.MouseEventHandler(this.pictureBox4_MouseDown);
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(984, 761);
-            this.Controls.Add(this.pictureBox4);
-            this.Controls.Add(this.pictureBox3);
-            this.Controls.Add(this.pictureBox2);
+            this.Controls.Add(this.playerClose);
+            this.Controls.Add(this.playerRange);
+            this.Controls.Add(this.playerSiege);
             this.Controls.Add(this.hand);
             this.Name = "Form1";
             this.Text = "Form1";
             ((System.ComponentModel.ISupportInitialize)(this.hand)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.playerSiege)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.playerRange)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.playerClose)).EndInit();
             this.ResumeLayout(false);
 
         }
@@ -93,9 +104,9 @@
         #endregion
 
         private System.Windows.Forms.PictureBox hand;
-        private System.Windows.Forms.PictureBox pictureBox2;
-        private System.Windows.Forms.PictureBox pictureBox3;
-        private System.Windows.Forms.PictureBox pictureBox4;
+        private System.Windows.Forms.PictureBox playerSiege;
+        private System.Windows.Forms.PictureBox playerRange;
+        private System.Windows.Forms.PictureBox playerClose;
     }
 }
 
